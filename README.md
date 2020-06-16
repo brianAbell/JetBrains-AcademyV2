@@ -6,7 +6,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-![Contributors][contributors-shield]
 ![Forks][forks-shield]
 ![Stargazers][stars-shield]
 ![Issues][issues-shield]
@@ -50,7 +49,6 @@
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
-* [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
@@ -61,7 +59,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-During quarantine I decided to pursue my passion... which is learning!  JetBrains Academy allowed me to not only review material that I learned at Virginia Tech but also exposed me to more advanced topics.
+With me having more free time on my hands than normal, I decided to work on various side projects which revolve around the principles of OOP.  I used Java to complete each of these projects and was able to understand on a more technical level how Java works as a OOP language.
 
 What I Learned:
 * Core Java Basics
@@ -124,13 +122,6 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 ## Contact
 
@@ -160,8 +151,6 @@ Project Link: [https://github.com/brianbell212/JetBrains-AcademyV2](https://gith
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/JetBrains-AcademyV2.svg?style=flat-square
-[contributors-url]: https://github.com/brianbell212/JetBrains-AcademyV2/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/brianbell212/JetBrains-AcademyV2
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
 [stars-shield]: https://img.shields.io/github/stars/brianbell212/JetBrains-AcademyV2
