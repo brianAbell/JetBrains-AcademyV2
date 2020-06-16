@@ -160,8 +160,8 @@ Project Link: [https://github.com/brianbell212/JetBrains-AcademyV2](https://gith
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/JetBrains-AcademyV2.svg?style=flat-square
+[contributors-url]: https://github.com/brianbell212/JetBrains-AcademyV2/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/brianbell212/JetBrains-AcademyV2
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
 [stars-shield]: https://img.shields.io/github/stars/brianbell212/JetBrains-AcademyV2
