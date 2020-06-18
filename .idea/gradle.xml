@@ -11,12 +11,14 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/A simple calculator" />
             <option value="$PROJECT_DIR$/Problems/Arithmetic expression" />
             <option value="$PROJECT_DIR$/Problems/Cats are robots" />
             <option value="$PROJECT_DIR$/Problems/Check burgs" />
             <option value="$PROJECT_DIR$/Problems/Check prefix ignoring the case" />
             <option value="$PROJECT_DIR$/Problems/Check the value" />
             <option value="$PROJECT_DIR$/Problems/Digits from 0 to 9 in a single line" />
+            <option value="$PROJECT_DIR$/Problems/Direction" />
             <option value="$PROJECT_DIR$/Problems/Fill the declaration" />
             <option value="$PROJECT_DIR$/Problems/First digit" />
             <option value="$PROJECT_DIR$/Problems/From string to a number" />
